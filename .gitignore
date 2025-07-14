@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+
+# IDE configs
+.idea/
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+
+# Other temp or build files
+*.log
+*.pyc
