@@ -1,7 +1,5 @@
-from os import system
-
 import streamlit as st
-from langchain_community.callbacks.fiddler_callback import MODEL_NAME
+
 
 
 st.set_page_config(page_title="AI agent", layout="centered")
